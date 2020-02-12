@@ -1,8 +1,8 @@
 {
-  "name": "unfluff",
-  "version": "3.2.0",
+  "name": "node-goose-honk",
+  "version": "1.0.0",
   "description": "A web page content extractor",
-  "homepage": "https://github.com/ageitgey/node-unfluff",
+  "homepage": "https://github.com/chbakouras/node-goose-honk",
   "keywords": [
     "content extraction",
     "html",
@@ -12,14 +12,14 @@
     "body text"
   ],
   "author": {
-    "name": "Adam Geitgey",
-    "email": "ageitgey@gmail.com"
+    "name": "Chrisostomos Bakouras",
+    "email": "chbakouras@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ageitgey/node-unfluff"
+    "url": "https://github.com/chbakouras/node-goose-honk"
   },
-  "bugs": "https://github.com/ageitgey/node-unfluff/issues",
+  "bugs": "https://github.com/chbakouras/node-goose-honk/issues",
   "main": "lib/unfluff.js",
   "directories": {
     "bin": "bin",
@@ -46,7 +46,7 @@
   "licenses": [
     {
       "type": "Apache",
-      "url": "https://github.com/ageitgey/node-unfluff/blob/master/LICENSE"
+      "url": "https://github.com/chbakouras/node-goose-honk/blob/master/LICENSE"
     }
   ]
 }

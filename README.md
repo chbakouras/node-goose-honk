@@ -1,4 +1,6 @@
-# unfluff
+# node-goose-honk
+
+node-goose-honk is a maintained fork of [node-unfluff](https://github.com/ageitgey/node-unfluff)
 
 An automatic web page content extractor for Node.js!
 
